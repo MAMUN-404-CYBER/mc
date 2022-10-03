@@ -168,8 +168,6 @@ def public_menu():
 		print (' [#] Connection Time Out')
 		exit()
 	except (KeyError,IOError):
-		print(' [!] Not public Or Token Expire')
-		exit()
 def File():
 			clear()
 			print(logo)
