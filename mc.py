@@ -402,15 +402,15 @@ logo = ("""\033[1;32m
    \033
 __________________×______________________
   
-  Owner   :  M A M U N
+  Owner    :  M A M U N
  
   Github   :  mamun026
   
-  Facebook : M A M U N
+  Facebook : ﾞMood　一　Offﾞ　Stay ﾞxﾞ Alert十
   
   Whatsapp : 01304906886
   
-  Version   : 0.0.6
+  Version  : 0.0.6
 __________________×______________________\033[1;37m""")
 
 class Main:
@@ -1329,4 +1329,4 @@ def Subscraption():
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+Mamun+''+key1
 		os.system('am start https://wa.me/+8801304906886?text=' + tks)
 		Subscraption()        
-Subscraption() 
+Main() 
